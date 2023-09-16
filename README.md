@@ -21,6 +21,8 @@ Movies Duration. Type selection, and more.
 | :fire: Desafio     |  https://www.datacamp.com/projects/1237
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
+![image](https://github.com/DiegoDeMorais1/DataCampNetflix/assets/118218502/05a1321e-ab0d-424e-a6db-ec506a45b1c0)
+
 
 ![image](https://github.com/DiegoDeMorais1/DataCampNetflix/assets/118218502/ff83a679-86f3-4986-b8f2-99c84c905dcc)
 
