@@ -11,7 +11,6 @@ Netflix data analysis e manipulation
   <a href="https://www.apache.org/">
     <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"><img</a>
 
-</div>
 Movies Duration. Type selection, and more.
 
 | :placard: Vitrine.Dev |     |
@@ -19,7 +18,7 @@ Movies Duration. Type selection, and more.
 | :sparkles: Nome        | **DataCamp - Data Netflix**
 | :label: Tecnologias | Python, Jupyter Notebook, Pandas, Mathplotlib
 | :fire: Desafio     |  https://www.datacamp.com/projects/1237
-
+</div>
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 <div align="center">
   
